@@ -25,7 +25,7 @@ comparison with state-of-the-art video representation methods.
 Especially, it performs significantly better in dealing with DT
 synthesis and recognition on heavily corrupted data.  
 
-# cite  
+cite：   
 @article{Wei2017Dynamical,  
   title={Dynamical Textures Modeling via Joint Video Dictionary Learning},  
   author={Wei, Xian and Li, Yuanxiang and Shen, Hao and Chen, Fang and Kleinsteuber, Martin and Wang, Zhongfeng},  
